@@ -40,3 +40,8 @@ A user can ;
 
 ## Known Bugs
 No known bugs.
+
+## Technologies used
+* Python3.6
+* Flask
+* Postgres
