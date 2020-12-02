@@ -31,3 +31,6 @@ A user can ;
 * vote on the pitch they liked and give it a downvote or upvote.
 
 * leave a comment if signed in.
+* view the pitches they have created in their profile page.
+
+* comment on the different pitches and leave feedback.
