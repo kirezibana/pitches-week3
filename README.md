@@ -50,7 +50,7 @@ No known bugs.
 * Flask framework that is a Python microframework.
 
 ## Support and contact details
-* EMAIL ME @ official1offmark@gmail.com
+* Email me at hortensekz32@gmail.com
 
 
 ### License
