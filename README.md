@@ -18,3 +18,9 @@ The program lets the user login
 The program lets a user publish a pitch
 * Example input: Create a pitch
 * Example output: Redirects user to form to create a pitch
+
+## Prerequisites
+* Python
+* Pip
+* Flask
+* Postgres
