@@ -28,3 +28,6 @@ The program lets a user publish a pitch
 ## How it works 
 A user can ;
 * see the pitches other people have posted.
+* vote on the pitch they liked and give it a downvote or upvote.
+
+* leave a comment if signed in.
