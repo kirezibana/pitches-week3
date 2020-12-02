@@ -5,3 +5,8 @@ create an application that allows users to use that one minute wisely. The users
 
 ## Deployed website 
 This app is live @ 
+
+## BDD
+The program lets a user register
+* Example input: Submit registration form
+* Example output: User receives a welcome email
