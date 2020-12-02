@@ -51,7 +51,7 @@ No known bugs.
 
 ## Support and contact details
 * EMAIL ME @ official1offmark@gmail.com
-* CHECK OUT MY WORK @ https://github.com/MachariaMark/
+
 
 ### License
 [MITlicense](LICENSE) 2019 **MARK MUCHIRI MACHARIA**
