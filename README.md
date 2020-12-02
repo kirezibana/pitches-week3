@@ -24,3 +24,7 @@ The program lets a user publish a pitch
 * Pip
 * Flask
 * Postgres
+
+## How it works 
+A user can ;
+* see the pitches other people have posted.
