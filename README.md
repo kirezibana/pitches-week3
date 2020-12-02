@@ -48,3 +48,10 @@ No known bugs.
 * pip
 * Bootstrap 
 * Flask framework that is a Python microframework.
+
+## Support and contact details
+* EMAIL ME @ official1offmark@gmail.com
+* CHECK OUT MY WORK @ https://github.com/MachariaMark/
+
+### License
+[MITlicense](LICENSE) 2019 **MARK MUCHIRI MACHARIA**
