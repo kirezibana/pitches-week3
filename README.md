@@ -13,3 +13,6 @@ The program lets a user register
 The program lets the user login
 * Example input: Submit login form
 * Example output: displays user name on right of navbar
+The program lets a user publish a pitch
+* Example input: Create a pitch
+* Example output: Redirects user to form to create a pitch
