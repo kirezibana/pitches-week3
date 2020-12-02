@@ -37,3 +37,6 @@ A user can ;
 * submit a pitch in any category.
 
 * view the different categories.
+
+## Known Bugs
+No known bugs.
