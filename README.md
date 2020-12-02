@@ -34,3 +34,6 @@ A user can ;
 * view the pitches they have created in their profile page.
 
 * comment on the different pitches and leave feedback.
+* submit a pitch in any category.
+
+* view the different categories.
