@@ -45,3 +45,6 @@ No known bugs.
 * Python3.6
 * Flask
 * Postgres
+* pip
+* Bootstrap 
+* Flask framework that is a Python microframework.
