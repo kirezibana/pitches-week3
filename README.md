@@ -10,3 +10,6 @@ This app is live @
 The program lets a user register
 * Example input: Submit registration form
 * Example output: User receives a welcome email
+The program lets the user login
+* Example input: Submit login form
+* Example output: displays user name on right of navbar
